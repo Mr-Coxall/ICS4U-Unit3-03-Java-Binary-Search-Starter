@@ -1,8 +1,9 @@
 /**
- * The Binary Search program.
- *
- * @author  Mr Coxall
- * @version 0.5
- * @since   2020-09-01
+* This is the package-info.java file.
+*
+* @author  Jenoe Balote
+* @version 1.0
+* @since   2020-12-06
 */
-package ca.mths.ics4u.unit3.unit3_03.java.binarySearch;
+
+package ca.mths.ics4u;
